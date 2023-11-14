@@ -7,4 +7,8 @@ Install Jenkins, configure Docker as agent, set up cicd, deploy applications to 
 * GO TO AWS CONSOLE
 * Launch Ec2 with UBUNTU AMI
 ![image](https://github.com/sowmiya429/jenkins/assets/80743760/2afe1e84-ba31-43be-bd31-d9b8ed4b4094)
+* connect to EC2 instance connect
+  ![image](https://github.com/sowmiya429/jenkins/assets/80743760/fbb23fc8-da06-4b84-ab33-c3b5a7e62135)
+  ![image](https://github.com/sowmiya429/jenkins/assets/80743760/6d46e3ee-8092-4d3b-8cf7-119166abd8ef)
+
 
