@@ -25,7 +25,8 @@ java --version
 ```
 ![image](https://github.com/sowmiya429/jenkins/assets/80743760/2c63ffc9-6342-472a-906b-90875babf857)
 Install jenkins using below command
-```curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
+```
+curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
 echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
   https://pkg.jenkins.io/debian binary/ | sudo tee \
