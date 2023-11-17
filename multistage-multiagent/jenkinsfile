@@ -6,11 +6,11 @@ pipeline {
         docker { image 'maven:3.8.1-adoptopenjdk-11' }
       }
       steps {
-        sh'class HelloWorld {
+        class HelloWorld {
              public static void main(String[] args) {
              System.out.println("Hello, World!"); 
     }
-}'
+}
       }
     }
     stage('Front-end') {
